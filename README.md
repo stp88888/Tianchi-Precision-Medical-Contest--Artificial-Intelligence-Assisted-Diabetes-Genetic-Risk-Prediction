@@ -2,6 +2,12 @@
 
 competition url: https://tianchi.aliyun.com/competition/introduction.htm?spm=5176.11409391.333.4.6f4149ecbPp76x&raceId=231638
 
+run.py: predict file(try so many ways)
+
+result.txt: online result record
+
+result document: each online result
+
 diffculty: Online and offline distribution are not the same, especially when data changed during the last moment in the competiton, hard to predict high value
 
 do not have the chance to get in final competition :(
